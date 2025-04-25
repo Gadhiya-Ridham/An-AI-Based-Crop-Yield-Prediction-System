@@ -7,19 +7,6 @@ CropAnalisi is a smart web-based solution that uses machine learning to predict 
 
 ---
 
-## 📁 Folder Structure
-
-CropAnalisi/
-├── frontend/           # React frontend (user input, UI)
-├── node_modules/       # Node.js dependencies
-├── Project/            # Flask backend (test_model.py, model logic) Possibly model files, training code
-├── Server/             # Database Connection Code
-├── package.json        # React app metadata and dependencies
-├── package-lock.json   # Locked versions of Node packages
-└── README.md           # This documentation file
-
----
-
 ## ⚙️ System Requirements
 
 - Python 3.8 or higher
