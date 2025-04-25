@@ -1,0 +1,27 @@
+[
+    {
+      "id": "CropYieldPrediction",
+      "img": "/src/components/images/crop-yeild-img.svg",
+      "title": "AI-powered crop yield prediction for smart farming",
+      "subtitle": "Leverage AI to analyze farming data, predict yields, enhance decision-making, boost productivity, and ensure sustainable agriculture with accurate insights."
+    },
+    {
+      "id": "FertilizerUsePrediction",
+      "img": "/src/components/images/fertilizer-img.jpeg",
+      "title": "Smart AI-Based Fertilizer Recommendations",
+      "subtitle": "Optimize soil health and maximize crop yield with AI-driven fertilizer recommendations, ensuring balanced nutrient application and efficient resource utilization."
+    },
+    {
+      "id": "IrrigationNeededPrediction",
+      "img": "/src/components/images/irrigation-img.jpg",
+      "title": "AI-Driven Smart Irrigation Planning",
+      "subtitle": "Improve water efficiency, prevent over-irrigation, and enhance crop hydration using AI-powered irrigation strategies tailored to specific farming conditions and needs."
+    },
+    {
+      "id": "WeatherImpactPrediction",
+      "img": "/src/components/images/weather-img.jpeg",
+      "title": "AI-Powered Weather Influence on Crops",
+      "subtitle": "Analyze temperature, rainfall, humidity, and climate patterns with AI to mitigate risks, optimize farming practices, and improve overall crop resilience."
+    }
+  ]
+  

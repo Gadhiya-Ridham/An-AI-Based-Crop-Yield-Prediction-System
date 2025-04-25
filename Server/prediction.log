@@ -1,0 +1,33 @@
+2025-04-04 02:20:56 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://172.20.10.5:9090
+2025-04-04 02:20:56 - INFO: [33mPress CTRL+C to quit[0m
+2025-04-04 02:20:56 - INFO:  * Restarting with stat
+2025-04-04 02:20:59 - WARNING:  * Debugger is active!
+2025-04-04 02:20:59 - INFO:  * Debugger PIN: 974-945-035
+2025-04-04 02:21:49 - INFO:  * Detected change in 'C:\\Users\\Ridham\\Desktop\\Mini Project\\Project\\test_model.py', reloading
+2025-04-04 02:21:49 - INFO:  * Restarting with stat
+2025-04-04 02:21:53 - WARNING:  * Debugger is active!
+2025-04-04 02:21:53 - INFO:  * Debugger PIN: 974-945-035
+2025-04-04 02:21:54 - INFO:  * Detected change in 'C:\\Users\\Ridham\\Desktop\\Mini Project\\Project\\test_model.py', reloading
+2025-04-04 02:21:55 - INFO:  * Restarting with stat
+2025-04-04 02:25:18 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 02:27:39 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 02:31:36 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 02:33:12 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 02:39:49 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 08:03:05 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 08:12:46 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 08:17:11 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 08:18:26 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 08:22:03 - INFO: \U0001f7e2 Received request for prediction.
+2025-04-04 08:22:03 - INFO: \U0001f504 Processing prediction for Crop: Rice
+2025-04-04 08:22:03 - ERROR: \u274c Error processing request: columns are missing: {'Sowing Month', 'Harvesting Month'}
+2025-04-04 08:22:20 - INFO: \U0001f7e2 Received request for prediction.
+2025-04-04 08:22:20 - INFO: \U0001f504 Processing prediction for Crop: Rice
+2025-04-04 08:22:20 - INFO: \u23f3 Preprocessing time: 0.02s
+2025-04-04 08:22:21 - INFO: \u23f3 Model prediction time: 0.68s
+2025-04-04 08:22:21 - INFO: \u2705 Completed prediction for Crop: Rice - Yield: 247.95 tons/ha
+2025-04-04 08:41:58 - INFO: Serving on http://0.0.0.0:9090
+2025-04-04 08:56:10 - INFO: Serving on http://0.0.0.0:9090
